@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://eduardomosanevesdutra.github.io/Alane-Mosa/sitemap.xml
